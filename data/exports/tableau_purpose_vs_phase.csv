@@ -1,0 +1,212 @@
+Purpose.of.flight,Broad.phase.of.flight,Incident Count
+ASHO,Unknown,6
+Aerial Application,Approach,65
+Aerial Application,Climb,42
+Aerial Application,Cruise,287
+Aerial Application,Descent,28
+Aerial Application,Go-around,7
+Aerial Application,Landing,265
+Aerial Application,Maneuvering,2023
+Aerial Application,Standing,22
+Aerial Application,Takeoff,866
+Aerial Application,Taxi,13
+Aerial Application,Unknown,1094
+Aerial Observation,Approach,25
+Aerial Observation,Climb,11
+Aerial Observation,Cruise,124
+Aerial Observation,Descent,12
+Aerial Observation,Go-around,1
+Aerial Observation,Landing,35
+Aerial Observation,Maneuvering,177
+Aerial Observation,Other,2
+Aerial Observation,Standing,10
+Aerial Observation,Takeoff,53
+Aerial Observation,Taxi,11
+Aerial Observation,Unknown,333
+Air Drop,Climb,1
+Air Drop,Maneuvering,1
+Air Drop,Unknown,9
+Air Race show,Unknown,99
+Air Race/show,Approach,1
+Air Race/show,Climb,1
+Air Race/show,Cruise,5
+Air Race/show,Descent,2
+Air Race/show,Landing,10
+Air Race/show,Maneuvering,27
+Air Race/show,Takeoff,10
+Air Race/show,Taxi,1
+Air Race/show,Unknown,2
+Banner Tow,Cruise,6
+Banner Tow,Landing,2
+Banner Tow,Maneuvering,13
+Banner Tow,Standing,1
+Banner Tow,Takeoff,2
+Banner Tow,Taxi,1
+Banner Tow,Unknown,76
+Business,Approach,440
+Business,Climb,147
+Business,Cruise,755
+Business,Descent,140
+Business,Go-around,63
+Business,Landing,775
+Business,Maneuvering,266
+Business,Other,2
+Business,Standing,52
+Business,Takeoff,581
+Business,Taxi,129
+Business,Unknown,668
+Executive/corporate,Approach,81
+Executive/corporate,Climb,24
+Executive/corporate,Cruise,71
+Executive/corporate,Descent,15
+Executive/corporate,Go-around,9
+Executive/corporate,Landing,112
+Executive/corporate,Maneuvering,14
+Executive/corporate,Standing,6
+Executive/corporate,Takeoff,67
+Executive/corporate,Taxi,26
+Executive/corporate,Unknown,128
+External Load,Cruise,1
+External Load,Maneuvering,12
+External Load,Standing,1
+External Load,Takeoff,2
+External Load,Unknown,107
+Ferry,Approach,60
+Ferry,Climb,24
+Ferry,Cruise,264
+Ferry,Descent,26
+Ferry,Go-around,6
+Ferry,Landing,83
+Ferry,Maneuvering,26
+Ferry,Standing,10
+Ferry,Takeoff,138
+Ferry,Taxi,15
+Ferry,Unknown,160
+Firefighting,Cruise,1
+Firefighting,Maneuvering,2
+Firefighting,Takeoff,1
+Firefighting,Unknown,36
+Flight Test,Approach,26
+Flight Test,Climb,8
+Flight Test,Cruise,16
+Flight Test,Descent,4
+Flight Test,Go-around,3
+Flight Test,Landing,17
+Flight Test,Maneuvering,22
+Flight Test,Other,3
+Flight Test,Standing,2
+Flight Test,Takeoff,40
+Flight Test,Taxi,6
+Flight Test,Unknown,258
+Glider Tow,Descent,1
+Glider Tow,Landing,2
+Glider Tow,Standing,1
+Glider Tow,Takeoff,7
+Glider Tow,Unknown,42
+Instructional,Approach,799
+Instructional,Climb,123
+Instructional,Cruise,639
+Instructional,Descent,162
+Instructional,Go-around,324
+Instructional,Landing,3171
+Instructional,Maneuvering,746
+Instructional,Other,7
+Instructional,Standing,80
+Instructional,Takeoff,1408
+Instructional,Taxi,214
+Instructional,Unknown,2928
+Other Work Use,Approach,70
+Other Work Use,Climb,29
+Other Work Use,Cruise,109
+Other Work Use,Descent,21
+Other Work Use,Go-around,4
+Other Work Use,Landing,103
+Other Work Use,Maneuvering,378
+Other Work Use,Other,12
+Other Work Use,Standing,24
+Other Work Use,Takeoff,128
+Other Work Use,Taxi,13
+Other Work Use,Unknown,373
+PUBL,Unknown,1
+PUBS,Unknown,4
+Personal,Approach,3972
+Personal,Climb,1183
+Personal,Cruise,6368
+Personal,Descent,1076
+Personal,Go-around,846
+Personal,Landing,9326
+Personal,Maneuvering,3456
+Personal,Other,57
+Personal,Standing,403
+Personal,Takeoff,7517
+Personal,Taxi,924
+Personal,Unknown,14320
+Positioning,Approach,165
+Positioning,Climb,48
+Positioning,Cruise,283
+Positioning,Descent,45
+Positioning,Go-around,14
+Positioning,Landing,202
+Positioning,Maneuvering,90
+Positioning,Other,3
+Positioning,Standing,34
+Positioning,Takeoff,211
+Positioning,Taxi,78
+Positioning,Unknown,473
+Public Aircraft,Approach,43
+Public Aircraft,Climb,13
+Public Aircraft,Cruise,99
+Public Aircraft,Descent,13
+Public Aircraft,Go-around,5
+Public Aircraft,Landing,81
+Public Aircraft,Maneuvering,170
+Public Aircraft,Other,2
+Public Aircraft,Standing,12
+Public Aircraft,Takeoff,62
+Public Aircraft,Taxi,10
+Public Aircraft,Unknown,210
+Public Aircraft - Federal,Climb,1
+Public Aircraft - Federal,Cruise,1
+Public Aircraft - Federal,Descent,1
+Public Aircraft - Federal,Landing,5
+Public Aircraft - Federal,Maneuvering,13
+Public Aircraft - Federal,Takeoff,2
+Public Aircraft - Federal,Taxi,2
+Public Aircraft - Federal,Unknown,80
+Public Aircraft - Local,Cruise,3
+Public Aircraft - Local,Landing,1
+Public Aircraft - Local,Maneuvering,4
+Public Aircraft - Local,Standing,1
+Public Aircraft - Local,Takeoff,1
+Public Aircraft - Local,Unknown,64
+Public Aircraft - State,Approach,1
+Public Aircraft - State,Descent,1
+Public Aircraft - State,Landing,3
+Public Aircraft - State,Maneuvering,5
+Public Aircraft - State,Standing,1
+Public Aircraft - State,Takeoff,2
+Public Aircraft - State,Taxi,1
+Public Aircraft - State,Unknown,50
+Skydiving,Approach,8
+Skydiving,Climb,3
+Skydiving,Cruise,8
+Skydiving,Descent,11
+Skydiving,Go-around,1
+Skydiving,Landing,4
+Skydiving,Maneuvering,7
+Skydiving,Other,1
+Skydiving,Standing,3
+Skydiving,Takeoff,24
+Skydiving,Unknown,112
+Unknown,Approach,790
+Unknown,Climb,376
+Unknown,Cruise,1229
+Unknown,Descent,329
+Unknown,Go-around,70
+Unknown,Landing,1231
+Unknown,Maneuvering,692
+Unknown,Other,30
+Unknown,Standing,282
+Unknown,Takeoff,1371
+Unknown,Taxi,514
+Unknown,Unknown,7539

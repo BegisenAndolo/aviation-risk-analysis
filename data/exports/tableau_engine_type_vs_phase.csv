@@ -1,0 +1,79 @@
+Engine.Type,Broad.phase.of.flight,Incident Count
+Electric,Unknown,10
+Geared Turbofan,Unknown,12
+Hybrid Rocket,Unknown,1
+LR,Unknown,2
+NONE,Unknown,2
+Reciprocating,Approach,5457
+Reciprocating,Climb,1629
+Reciprocating,Cruise,8857
+Reciprocating,Descent,1461
+Reciprocating,Go-around,1296
+Reciprocating,Landing,13804
+Reciprocating,Maneuvering,6776
+Reciprocating,Other,85
+Reciprocating,Standing,600
+Reciprocating,Takeoff,11127
+Reciprocating,Taxi,1520
+Reciprocating,Unknown,16918
+Turbo Fan,Approach,161
+Turbo Fan,Climb,144
+Turbo Fan,Cruise,250
+Turbo Fan,Descent,134
+Turbo Fan,Go-around,10
+Turbo Fan,Landing,277
+Turbo Fan,Maneuvering,22
+Turbo Fan,Other,4
+Turbo Fan,Standing,103
+Turbo Fan,Takeoff,265
+Turbo Fan,Taxi,213
+Turbo Fan,Unknown,898
+Turbo Jet,Approach,70
+Turbo Jet,Climb,42
+Turbo Jet,Cruise,70
+Turbo Jet,Descent,38
+Turbo Jet,Go-around,7
+Turbo Jet,Landing,120
+Turbo Jet,Maneuvering,31
+Turbo Jet,Other,1
+Turbo Jet,Standing,32
+Turbo Jet,Takeoff,99
+Turbo Jet,Taxi,55
+Turbo Jet,Unknown,138
+Turbo Prop,Approach,332
+Turbo Prop,Climb,123
+Turbo Prop,Cruise,281
+Turbo Prop,Descent,106
+Turbo Prop,Go-around,31
+Turbo Prop,Landing,413
+Turbo Prop,Maneuvering,309
+Turbo Prop,Other,7
+Turbo Prop,Standing,87
+Turbo Prop,Takeoff,415
+Turbo Prop,Taxi,121
+Turbo Prop,Unknown,1166
+Turbo Shaft,Approach,194
+Turbo Shaft,Climb,56
+Turbo Shaft,Cruise,643
+Turbo Shaft,Descent,57
+Turbo Shaft,Go-around,4
+Turbo Shaft,Landing,270
+Turbo Shaft,Maneuvering,828
+Turbo Shaft,Other,12
+Turbo Shaft,Standing,101
+Turbo Shaft,Takeoff,334
+Turbo Shaft,Taxi,34
+Turbo Shaft,Unknown,1076
+UNK,Unknown,1
+Unknown,Approach,332
+Unknown,Climb,40
+Unknown,Cruise,168
+Unknown,Descent,91
+Unknown,Go-around,5
+Unknown,Landing,544
+Unknown,Maneuvering,178
+Unknown,Other,10
+Unknown,Standing,22
+Unknown,Takeoff,253
+Unknown,Taxi,15
+Unknown,Unknown,8948
